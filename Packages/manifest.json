@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "com.unity.ide.rider": "3.0.36",
+    "com.unity.ide.visualstudio": "2.0.23",
+    "com.unity.test-framework": "1.5.1",
+    "com.cysharp.unitask": "2.5.10"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.cysharp.unitask"
+      ]
+    }
+  ]
+}

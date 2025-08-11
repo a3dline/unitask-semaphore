@@ -1,0 +1,13 @@
+{
+  "name": "AUnitaskSemaphore.Tests",
+  "references": [
+    "UniTask",
+    "AUnitaskSemaphore.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ]
+}

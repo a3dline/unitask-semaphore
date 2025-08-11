@@ -1,0 +1,19 @@
+{
+  "name": "com.a3dline.unitask-semaphore",
+  "displayName": "AUnitaskSemaphore",
+  "version": "0.1.0",
+  "unity": "2021.0",
+  "description": "Semaphore for UniTask",
+  "keywords": [
+    "unitask",
+    "semaphore"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a3dline/unitask-semaphore"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
+  }
+}

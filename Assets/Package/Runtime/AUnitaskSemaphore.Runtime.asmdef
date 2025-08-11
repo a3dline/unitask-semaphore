@@ -1,0 +1,8 @@
+{
+  "name": "AUnitaskSemaphore.Runtime",
+  "rootNamespace": "AUniTaskSemaphore",
+  "references": [
+    "UniTask"
+  ],
+  "autoReferenced": true
+}
