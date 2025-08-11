@@ -22,3 +22,12 @@ async UniTask SomeMethod()
 new UniTaskSemaphore(3);
 ```
 ![example.gif](example.gif)
+
+
+# Installation
+Unity Package Manager as git dependency.
+
+`manifest.json`:
+```json
+"com.a3dline.unitask-semaphore": "git@github.com:a3dline/unitask-semaphore.git?path=Assets/Package#1.0.0"
+```
