@@ -454,7 +454,7 @@ namespace Tests
                     await source.Task.AttachExternalCancellation(token);
                     completeCallback.Invoke();
                 }
-                catch (Exception e)
+                catch (Exception)
                 {
                     // Ignore propagation
                 }
